@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/CometWhoosh/CometWhoosh/Header.png "Header")]
+[![Header](https://github.com/CometWhoosh/CometWhoosh/blob/main/Header.png)]
 
 
 ### Hi there 👋
