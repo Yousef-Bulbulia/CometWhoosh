@@ -1,4 +1,6 @@
-<img align="center" src="https://github.com/CometWhoosh/CometWhoosh/blob/main/Header.png">
+<p align="center">
+  <img src="https://github.com/CometWhoosh/CometWhoosh/blob/main/Header.png">
+</p>
 
 
 ### Hi there 👋
