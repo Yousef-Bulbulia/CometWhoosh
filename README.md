@@ -1,3 +1,6 @@
+[![Header](https://raw.githubusercontent.com/MartinHeinz/CometWhoosh/CometWhoosh/Header.png "Header")]
+
+
 ### Hi there 👋
 
 <!--
