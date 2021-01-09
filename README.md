@@ -1,3 +1,6 @@
+![Header](https://github.com/CometWhoosh/CometWhoosh/blob/main/Header.png)
+
+
 ### Hi there 👋
 
 <!--
