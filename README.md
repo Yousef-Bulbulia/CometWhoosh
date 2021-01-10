@@ -3,7 +3,7 @@
 I'm a 2nd year student at the University of Toronto Mississauga studying computer science and statistics.
 
 ### 💪 Skills
-My go-to languages are Java, Python, and JavaScript
+Java, Python, and JavaScript are my go-to languages.
 
 I've also had experience with
 * MongoDB
