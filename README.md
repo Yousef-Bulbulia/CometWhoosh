@@ -1,7 +1,7 @@
 ### Hey there, I'm Yousef! 👋
 
 ## 🎓 Education
-I'm a 2nd year student at the University of Toronto Mississauga studying computer science and statistics
+I'm a 2nd year student at the University of Toronto Mississauga studying computer science and statistics.
 
 ## 💪 Skills
 My go-to languages are
