@@ -16,13 +16,6 @@ I've also had experience with
 * discord.js
 * Java Servlet API
 
-## 💻 Projects
-You can check out my projects here! Currently, I've worked on:  
-**WVAnon:** A Discord bot created by a team of students at the University of Toronto that enables users to send anonymous messages  
-**DuelBot:** A Discord bot that enables users to have Wild West duels with each other... over text 😅  
-**Mental Health Message Service:** A website that connects mental health patients with therapists for treatment  
-**MIDI Device Octave Shifter:** A device that allows users to temporarily shift the range of a digital instrument, allowing them to play notes that were previously unreachable 😮  
-
 ## ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
 <!--
