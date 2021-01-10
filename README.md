@@ -27,7 +27,7 @@ A website that connects mental health patients with therapists for treatment
 ### MIDI Device Octave Shifter
 A device that allows users to temporarily shift the range of a digital instrument, allowing them to play notes that were previously unreachable 😮
 
-## ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)](https://github.com/anuraghazra/github-readme-stats)
+## ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
 <!--
 **CometWhoosh/CometWhoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
