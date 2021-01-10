@@ -18,7 +18,7 @@ I've also had experience with
 
 ### 📪 Contact me!
 Please feel free to reach out to me at yousef.bulbulia@mail.utoronto.ca  
-Or if you want to connect on LinkedIn, my profile is https://www.linkedin.com/in/yousef-bulbulia-39b5ab167/
+Or if you want to connect on LinkedIn, my profile is https://www.linkedin.com/in/yousef-bulbulia-39b5ab167
 
 ### ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
