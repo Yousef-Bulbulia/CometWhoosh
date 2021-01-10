@@ -1,9 +1,9 @@
-### Hey there, I'm Yousef! 👋
+## Hey there, I'm Yousef! 👋
 
-## 🎓 Education
+### 🎓 Education
 I'm a 2nd year student at the University of Toronto Mississauga studying computer science and statistics.
 
-## 💪 Skills
+### 💪 Skills
 My go-to languages are
 * Java
 * Python
@@ -16,7 +16,10 @@ I've also had experience with
 * discord.js
 * Java Servlet API
 
-## ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
+### 📪 Contact me!
+Please feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/yousef-bulbulia-39b5ab167/
+
+### ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
 <!--
 **CometWhoosh/CometWhoosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
