@@ -5,7 +5,7 @@ I'm a 2nd year student at the University of Toronto Mississauga studying compute
 ### 💪 Skills
 Java and Python are my go-to languages, although I am familiar with C.
 
-I've also had experience with
+I've also had experience with:
 * MongoDB
 * SQLite3 and better-sqlite3
 * discord.py
