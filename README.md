@@ -10,7 +10,6 @@ I've also had experience with:
 * SQLite3 and better-sqlite3
 * discord.py
 * discord.js
-* Java Servlet API
 * JavaFX
 
 ### 📪 Contact me!
