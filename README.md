@@ -3,7 +3,7 @@
 I'm a 2nd year student at the University of Toronto Mississauga studying computer science and statistics.
 
 ### 💪 Skills
-Java, Python, and JavaScript are my go-to languages.
+Java and Python are my go-to languages, although I am familiar with C.
 
 I've also had experience with
 * MongoDB
@@ -11,6 +11,7 @@ I've also had experience with
 * discord.py
 * discord.js
 * Java Servlet API
+* JavaFX
 
 ### 📪 Contact me!
 Please feel free to reach out to me at yousef.bulbulia@mail.utoronto.ca  
