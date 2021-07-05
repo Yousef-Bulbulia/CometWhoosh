@@ -6,6 +6,7 @@ I'm a 3rd year student at the University of Toronto Mississauga studying compute
 Java and Python are my go-to languages, although I am familiar with C.
 
 I've also had experience with:
+* JavaScript
 * MongoDB
 * SQLite3 and better-sqlite3
 * discord.py
