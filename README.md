@@ -1,6 +1,6 @@
 ## Hey there, I'm Yousef! 👋
 
-I'm a 3rd year student at the University of Toronto Mississauga studying computer science and statistics.
+I'm a 3rd year student at the University of Toronto Mississauga studying computer science, mathematics, and statistics.
 
 ### 💪 Skills
 Java and Python are my go-to languages, although I am familiar with C.
