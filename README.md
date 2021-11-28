@@ -6,7 +6,7 @@
 
 ### 🧰 Languages and Technologies
 
-<img src="http://www.w3.org/2000/svg" alt="React Logo">
+<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo">
 
 ### ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
