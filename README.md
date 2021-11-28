@@ -6,7 +6,7 @@
 
 ### 🧰 Languages and Technologies
 
-<img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50">
+<img src="https://cdn.worldvectorlogo.com/logos/python-5.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/java-4.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/react-2.svg" alt="React Logo" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/css-3.svg" width="50" height="50"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" width="50" height="50"> 
 
 ### ![My github stats](https://github-readme-stats.vercel.app/api?username=CometWhoosh)
 
