@@ -1,7 +1,7 @@
 ## Hey there, I'm Yousef! 👋
 
 * 📚 I'm a third year student at the University of Toronto studying CS, math, and statistics.
-* 💻 Technology Officer for [UTM Computer Science Student Community](https://cssc.utm.utoronto.ca/)
+* 💻 Technology Director for [UTM Computer Science Student Community](https://cssc.utm.utoronto.ca/)
 * 🌱 Currently learning Angular!
 
 ### 🧰 Languages and Technologies
